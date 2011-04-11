@@ -43,4 +43,7 @@ If you wish to slow down the simulation
    run control page if it is not already stopped)
 4) click on the Fig 6 button to start again.
 
-
+20110411 changed solve method to cnexp in caacum.mod and naacum.mod as
+per "Integration methods for SOLVE statements" topic in the NEURON
+forum http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
+-ModelDB Adminsitrator
