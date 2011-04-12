@@ -39,7 +39,7 @@ INITIAL {
 }   
    
 BREAKPOINT {   
-   SOLVE state METHOD cnexp
+   SOLVE state METHOD derivimplicit
 }   
    
 DERIVATIVE state {   
