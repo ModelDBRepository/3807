@@ -47,4 +47,4 @@ If you wish to slow down the simulation
 per "Integration methods for SOLVE statements" topic in the NEURON
 forum http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
 20110412 corrected above change to derivimplicit from cnexp
--ModelDB Adminsitrator
+-ModelDB Administrator
