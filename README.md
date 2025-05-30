@@ -44,13 +44,12 @@ If you wish to slow down the simulation
 4) click on the Fig 6 button to start again.
 
 ---
-
+## Changelog
 20110411 changed solve method to cnexp in caacum.mod and naacum.mod as
 per "Integration methods for SOLVE statements" topic in the NEURON
 forum [http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592)
+
 20110412 corrected above change to derivimplicit from cnexp
 -ModelDB Administrator
 
----
-
-2025-05-27 – Standardized to Markdown.
+20250527 Standardized to Markdown.
