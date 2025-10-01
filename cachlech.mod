@@ -73,4 +73,3 @@ FUNCTION vtrap(x,y) {  :Traps for 0 in denominator of rate eqns.
 }  
    
 UNITSON  
-  

@@ -70,4 +70,3 @@ microns.  Under scop and hocmodl its default value is specified in the
 PARAMETER block. In NEURON, however, its value is taken from the   
 "morphology" mechanism.   
 ENDCOMMENT   
-
